@@ -1,0 +1,8 @@
+mljar-mercury
+python_dotenv
+yfinance
+matplotlib
+numpy
+pandas
+requests
+bloxs
